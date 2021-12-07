@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXBS-LJ03A-05-HPIESA301-streamed-hpies_data_header
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Header Data Products<br>
+Instrument Group Code: HPIES<br>
