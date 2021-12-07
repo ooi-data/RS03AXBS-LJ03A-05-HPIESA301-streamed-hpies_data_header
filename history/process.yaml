@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/RS03AXBS-LJ03A-05-HPIESA301-streamed-hpies_data_header
+data_stream: RS03AXBS-LJ03A-05-HPIESA301-streamed-hpies_data_header
+end_date: '2021-12-07T06:17:56.906Z'
+last_updated: '2021-12-07T08:23:36.778578Z'
+start_date: '2014-08-22T22:52:37.245Z'
+status: pending
